@@ -1,0 +1,12 @@
+
+torch==2.0.1
+transformers==4.34.0
+datasets==2.14.5
+soundfile==0.12.1
+librosa==0.10.1
+accelerate==0.23.0
+
+Flask==2.2.2
+flasgger==0.9.5
+Werkzeug==2.2.2
+flask-restx==1.0.3
